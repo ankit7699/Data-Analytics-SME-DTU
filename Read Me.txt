@@ -1,0 +1,3 @@
+data analytics on global terrorism data set
+
+data set link -- https://www.kaggle.com/c/sme-dataanalytics
